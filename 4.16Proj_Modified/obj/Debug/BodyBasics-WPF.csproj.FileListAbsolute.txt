@@ -1,0 +1,57 @@
+D:\Project\Proj1218Modified\bin\AnyCPU\Debug\BodyBasics-WPF.exe.config
+D:\Project\Proj1218Modified\obj\Debug\BodyBasics-WPF.exe
+D:\Project\Proj1218Modified\obj\Debug\BodyBasics-WPF.pdb
+D:\Project\Proj0406Modified\bin\AnyCPU\Debug\BodyBasics-WPF.exe.config
+D:\Project\Proj0406Modified\obj\Debug\BodyBasics-WPF.exe
+D:\Project\Proj0406Modified\obj\Debug\BodyBasics-WPF.pdb
+C:\Users\ZHONG ZEYU\Desktop\机床\Proj0406Modified\bin\AnyCPU\Debug\BodyBasics-WPF.exe.config
+C:\Users\ZHONG ZEYU\Desktop\机床\Proj0406Modified\obj\Debug\BodyBasics-WPF.exe
+C:\Users\ZHONG ZEYU\Desktop\机床\Proj0406Modified\obj\Debug\BodyBasics-WPF.pdb
+C:\Users\ZHONG ZEYU\Desktop\机床\Proj0406Modified\bin\AnyCPU\Debug\BodyBasics-WPF.exe
+C:\Users\ZHONG ZEYU\Desktop\机床\Proj0406Modified\bin\AnyCPU\Debug\BodyBasics-WPF.pdb
+C:\Users\ZHONG ZEYU\Desktop\机床\Proj0406Modified\bin\AnyCPU\Debug\Microsoft.Kinect.dll
+C:\Users\ZHONG ZEYU\Desktop\机床\Proj0406Modified\bin\AnyCPU\Debug\Microsoft.Kinect.xml
+C:\Users\ZHONG ZEYU\Desktop\机床\Proj0406Modified\obj\Debug\BodyBasics-WPF.csprojResolveAssemblyReference.cache
+C:\Users\ZHONG ZEYU\Desktop\机床\Proj0406Modified\obj\Debug\MainWindow.baml
+C:\Users\ZHONG ZEYU\Desktop\机床\Proj0406Modified\obj\Debug\MainWindow.g.cs
+C:\Users\ZHONG ZEYU\Desktop\机床\Proj0406Modified\obj\Debug\App.g.cs
+C:\Users\ZHONG ZEYU\Desktop\机床\Proj0406Modified\obj\Debug\BodyBasics-WPF_MarkupCompile.cache
+C:\Users\ZHONG ZEYU\Desktop\机床\Proj0406Modified\obj\Debug\BodyBasics-WPF.g.resources
+C:\Users\ZHONG ZEYU\Desktop\机床\Proj0406Modified\obj\Debug\Microsoft.Samples.Kinect.BodyBasics.Properties.Resources.resources
+C:\Users\ZHONG ZEYU\Desktop\机床\Proj0406Modified\obj\Debug\BodyBasics-WPF.csproj.GenerateResource.Cache
+C:\Users\ZHONG ZEYU\Desktop\机床\Proj0410Modified\bin\AnyCPU\Debug\BodyBasics-WPF.exe.config
+C:\Users\ZHONG ZEYU\Desktop\机床\Proj0410Modified\obj\Debug\BodyBasics-WPF.exe
+C:\Users\ZHONG ZEYU\Desktop\机床\Proj0410Modified\obj\Debug\BodyBasics-WPF.pdb
+C:\Users\user\Desktop\Proj0410Modified\bin\AnyCPU\Debug\BodyBasics-WPF.exe.config
+C:\Users\user\Desktop\Proj0410Modified\obj\Debug\BodyBasics-WPF.exe
+C:\Users\user\Desktop\Proj0410Modified\obj\Debug\BodyBasics-WPF.pdb
+C:\Users\user\Desktop\Proj0410Modified\bin\AnyCPU\Debug\BodyBasics-WPF.exe
+C:\Users\user\Desktop\Proj0410Modified\bin\AnyCPU\Debug\BodyBasics-WPF.pdb
+C:\Users\user\Desktop\Proj0410Modified\bin\AnyCPU\Debug\Microsoft.Kinect.dll
+C:\Users\user\Desktop\Proj0410Modified\bin\AnyCPU\Debug\Microsoft.Kinect.xml
+C:\Users\user\Desktop\Proj0410Modified\obj\Debug\BodyBasics-WPF.csprojResolveAssemblyReference.cache
+C:\Users\user\Desktop\Proj0410Modified\obj\Debug\MainWindow.baml
+C:\Users\user\Desktop\Proj0410Modified\obj\Debug\MainWindow.g.cs
+C:\Users\user\Desktop\Proj0410Modified\obj\Debug\App.g.cs
+C:\Users\user\Desktop\Proj0410Modified\obj\Debug\BodyBasics-WPF_MarkupCompile.cache
+C:\Users\user\Desktop\Proj0410Modified\obj\Debug\BodyBasics-WPF.g.resources
+C:\Users\user\Desktop\Proj0410Modified\obj\Debug\Microsoft.Samples.Kinect.BodyBasics.Properties.Resources.resources
+C:\Users\user\Desktop\Proj0410Modified\obj\Debug\BodyBasics-WPF.csproj.GenerateResource.Cache
+C:\Users\ZHONG ZEYU\Desktop\机\4.15Proj_Modified\bin\AnyCPU\Debug\BodyBasics-WPF.exe.config
+C:\Users\ZHONG ZEYU\Desktop\机\4.15Proj_Modified\obj\Debug\BodyBasics-WPF.exe
+C:\Users\ZHONG ZEYU\Desktop\机\4.15Proj_Modified\obj\Debug\BodyBasics-WPF.pdb
+C:\Users\user\Desktop\4.16\4.16Proj_Modified\bin\AnyCPU\Debug\BodyBasics-WPF.exe.config
+C:\Users\user\Desktop\4.16\4.16Proj_Modified\obj\Debug\BodyBasics-WPF.exe
+C:\Users\user\Desktop\4.16\4.16Proj_Modified\obj\Debug\BodyBasics-WPF.pdb
+C:\Users\user\Desktop\4.16\4.16Proj_Modified\bin\AnyCPU\Debug\BodyBasics-WPF.exe
+C:\Users\user\Desktop\4.16\4.16Proj_Modified\bin\AnyCPU\Debug\BodyBasics-WPF.pdb
+C:\Users\user\Desktop\4.16\4.16Proj_Modified\bin\AnyCPU\Debug\Microsoft.Kinect.dll
+C:\Users\user\Desktop\4.16\4.16Proj_Modified\bin\AnyCPU\Debug\Microsoft.Kinect.xml
+C:\Users\user\Desktop\4.16\4.16Proj_Modified\obj\Debug\BodyBasics-WPF.csprojResolveAssemblyReference.cache
+C:\Users\user\Desktop\4.16\4.16Proj_Modified\obj\Debug\MainWindow.baml
+C:\Users\user\Desktop\4.16\4.16Proj_Modified\obj\Debug\MainWindow.g.cs
+C:\Users\user\Desktop\4.16\4.16Proj_Modified\obj\Debug\App.g.cs
+C:\Users\user\Desktop\4.16\4.16Proj_Modified\obj\Debug\BodyBasics-WPF_MarkupCompile.cache
+C:\Users\user\Desktop\4.16\4.16Proj_Modified\obj\Debug\BodyBasics-WPF.g.resources
+C:\Users\user\Desktop\4.16\4.16Proj_Modified\obj\Debug\Microsoft.Samples.Kinect.BodyBasics.Properties.Resources.resources
+C:\Users\user\Desktop\4.16\4.16Proj_Modified\obj\Debug\BodyBasics-WPF.csproj.GenerateResource.Cache
